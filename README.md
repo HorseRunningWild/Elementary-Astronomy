@@ -7,4 +7,5 @@ Exercise Analysis and Knowledge Summary of Elementary Astronomy
 
 ~~虽然我们敬爱的佳威哥没有实际上参与本文的撰写，但是出于对佳威哥的尊重以及对我在学业上的指导，仍然保留佳威哥的作者身份。~~
 
-在尽快写完附录中的题解后，本人即会将文件上传至Github仓库。
+# 2025/6/26
+**已完成最终版的修订！**
